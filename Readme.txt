@@ -20,14 +20,14 @@ Each contract details the size of the lawns that need to be seeded, and the cost
 metre. How much do you need to spend on seed?
 
 Input
-• One line containing a floating point number C (0 < C = 100), the cost of seed to sow
+â€¢ One line containing a floating point number C (0 < C <= 100), the cost of seed to sow
 one square metre of lawn.
-• One line containing an integer L (0 < L = 100), the number of lawns to sow.
-• L lines, each containing two positive floating point numbers: wi (0 = wi = 100), the
-width of the lawn, and li (0 = li = 100), the length of the lawn.
+â€¢ One line containing an integer L (0 < L <= 100), the number of lawns to sow.
+â€¢ L lines, each containing two positive floating point numbers: wi (0 <= wi <= 100), the
+width of the lawn, and li (0 <= li <= 100), the length of the lawn.
 
 Output
-• One line containing a real number: the cost to sow all of the lawns.
+â€¢ One line containing a real number: the cost to sow all of the lawns.
 All output must be accurate to an absolute or relative error of at most 10-6
 .
 
