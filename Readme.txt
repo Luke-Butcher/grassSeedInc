@@ -28,7 +28,7 @@ width of the lawn, and li (0 <= li <= 100), the length of the lawn.
 
 Output
 • One line containing a real number: the cost to sow all of the lawns.
-All output must be accurate to an absolute or relative error of at most 10-6
+All output must be accurate to an absolute or relative error of at most 10^-6
 .
 
 Sample Input 1 
